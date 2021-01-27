@@ -1,0 +1,10 @@
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\bin\Debug\RotinaCambioBank.exe.config
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\bin\Debug\RotinaCambioBank.exe
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\bin\Debug\RotinaCambioBank.pdb
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\obj\Debug\RotinaCambioBank.csprojAssemblyReference.cache
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\obj\Debug\RotinaCambioBank.csproj.CoreCompileInputs.cache
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\obj\Debug\RotinaCambioBank.csproj.CopyComplete
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\obj\Debug\RotinaCambioBank.exe
+C:\Users\caduf\source\repos\RotinaCambioBank\RotinaCambioBank\obj\Debug\RotinaCambioBank.pdb
